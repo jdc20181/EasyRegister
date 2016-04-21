@@ -2,7 +2,7 @@
 
 Below is links to wiki pages that describes or guides you through processes. 
 
--Getting Started
+-<a href="https://github.com/jdc20181/EasyRegister/wiki/Getting-Started">Getting Started</a>
 
 -Set-Up options
 
